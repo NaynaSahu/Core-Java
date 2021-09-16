@@ -3,8 +3,9 @@ package javaBasics;
 public class Factorial {
 	public static void main(String[] args) {
 
-		int y = 1;
-		for (int i = 1; i <= 10; i++) {
+		int enternum = 5;
+		int y = enternum ;
+		for (int i = 1; i < enternum; i++) {
 			y = y * i;
 		}
 		System.out.println(y);
