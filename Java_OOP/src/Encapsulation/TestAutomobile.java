@@ -1,6 +1,6 @@
 package Encapsulation;
 
-public class Test_Automobile {
+public class TestAutomobile {
 	public static void main(String[] args) {
 		Automobile x = new Automobile();
 		x.acceleration(20);

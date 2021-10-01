@@ -14,7 +14,7 @@ public class Date_String {
 		System.out.println("Date : " + st );
 		
 		String date = "01/07/2003";
-		Date d = q.parse(date);  // Date -> String
+		Date d = q.parse(date);  // STRING-> DATE
 		System.out.println(d);
 	}
 

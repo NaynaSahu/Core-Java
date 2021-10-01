@@ -1,6 +1,6 @@
 package Encapsulation;
 
-public class Test_Constructor {
+public class TestConstructor {
 	public static void main(String[] args) {
 		// Default Constructor 
 		Constructor x = new Constructor() ;

@@ -4,7 +4,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Test_Person {
+public class TestPerson {
 	public static void main(String[] args) throws ParseException {
 		Person y = new Person();
 		y.setAddress("ratan bagh");
