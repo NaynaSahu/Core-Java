@@ -10,7 +10,7 @@ public class TestTry {
 			System.out.println(i.charAt(5));
 
 		} catch (ArithmeticException e) {// runtime exception
-			System.out.println("is divided by zero4");
+			System.out.println("is divided by zero ");
 			try {
 				String u = null;
 				System.out.println(u.length());

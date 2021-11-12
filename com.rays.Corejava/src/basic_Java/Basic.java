@@ -1,9 +1,11 @@
 package basic_Java;
 
+import java.io.PrintWriter;
+
 public class Basic {
 	public static void main(String[] args) {
-		String n = "nayna sahu"; 
-		System.out.println(n);
+	String name = " nayna sahu ";
+	System.out.println(name.trim());
 	}
 
 }

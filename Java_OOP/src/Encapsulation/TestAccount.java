@@ -15,7 +15,7 @@ public class TestAccount {
 		y.deposit(60);
 		System.out.println(y.getBalance());
 		
-		
+		x.setNumber("123");
 	
 		
 	}

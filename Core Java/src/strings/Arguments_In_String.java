@@ -12,10 +12,11 @@ public class Arguments_In_String {
 		case (1):
 			System.out.println(args[0]);
 		break;
-		default :
-			for (int i =y-1; i>=0 ; i++) {
-				System.out.println(args[i]);
-			}
+	/*
+	 * default :
+	 * 
+	 * System.out.println("khali hai justv chill bro"); break;
+	 */
 		}
 	}
 
